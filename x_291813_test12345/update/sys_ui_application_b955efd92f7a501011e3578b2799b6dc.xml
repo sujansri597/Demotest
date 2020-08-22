@@ -3,7 +3,7 @@
         <active>true</active>
         <hint/>
         <name>Corporate Investigation</name>
-        <order/>
+        <order>100</order>
         <roles>x_291813_test12345.corporate_investigation_user</roles>
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -11,7 +11,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b955efd92f7a501011e3578b2799b6dc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Corporate Investigation</sys_name>
         <sys_overrides/>
         <sys_package display_value="test123455" source="x_291813_test12345">e6e4eb592f7a501011e3578b2799b662</sys_package>
@@ -19,6 +19,6 @@
         <sys_scope display_value="test123455">e6e4eb592f7a501011e3578b2799b662</sys_scope>
         <sys_update_name>sys_ui_application_b955efd92f7a501011e3578b2799b6dc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-22 13:56:42</sys_updated_on>
+        <sys_updated_on>2020-08-22 14:08:52</sys_updated_on>
     </sys_ui_application>
 </record_update>
